@@ -1,8 +1,9 @@
 # exploratory-analysis-of-rain-fall-data-in-india-for-agriculture
 
 """ Exploratory Data Analysis (EDA) of Rainfall Data in India for Agriculture
+Author: Nagaraju Vancheti 
 
-Author: Nagaraju Vancheti Description: This script performs an exploratory data analysis on Indian rainfall data with an agricultural perspective. It covers data loading, cleaning, descriptive statistics, seasonal analysis, state-wise trends, and visualizations suitable for a GitHub project.
+Description: This script performs an exploratory data analysis on Indian rainfall data with an agricultural perspective. It covers data loading, cleaning, descriptive statistics, seasonal analysis, state-wise trends, and visualizations suitable for a GitHub project.
 
 Dataset Assumption:
 
